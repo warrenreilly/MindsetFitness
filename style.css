@@ -21,7 +21,7 @@ p {
 }
 
 a.btn:hover {
-  background-color: #ffa800;
+  background-color: #ff0000;
 }
 
 /* Main */
@@ -36,7 +36,7 @@ a.btn:hover {
 .main h1 {
   font-size: 150px;
   margin: 0px;
-  color: black;
+  color: #000000;
 }
 
 .main p {
